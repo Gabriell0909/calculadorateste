@@ -58,6 +58,7 @@ input{
 @media screen and (max-width:798px){
     .container{
          -webkit-tap-highlight-color: transparent;
-             outline: none;
+         outline: none;
+         border:none;
     }
 }
