@@ -56,7 +56,7 @@ input{
     height: 28px;
 }
 @media screen and (max-width:798px){
-    input{
+    .container{
          -webkit-tap-highlight-color: transparent;
              outline: none;
     }
